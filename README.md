@@ -1,9 +1,13 @@
-# Software Engineer
+# Main Github
 
-[![github](ghislain.jpg)](https://github.com/ghislain-bernard)
+A portfolio of projects exploring new technologies and refining my skills in my favorite languages.
 
-ghislain.bernard@gmail.com
+## Laboratory Github
 
-## Laboratory
+[![Github](https://github.com/gbernard-online.png?size=96)](https://github.com/gbernard-online)
 
-[![github](https://github.com/gbernard-online.png?size=96)](https://github.com/gbernard-online)
+`-`
+
+![Avatar](https://github.com/ghislain-bernard.png?size=48 "Ghislain Bernard")  
+ghislain.bernard@gmail.com  
+Software Engineer
