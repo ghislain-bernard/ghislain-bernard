@@ -1,3 +1,4 @@
 .editorconfig
+laboratory.webp
 README.md
 .files.txt
