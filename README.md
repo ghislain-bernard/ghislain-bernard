@@ -4,7 +4,9 @@ A portfolio of projects exploring new technologies and refining my skills in my 
 
 ## Laboratory Github
 
-[![Github](https://github.com/gbernard-online.png?size=96)](https://github.com/gbernard-online)
+Latest code and experiments live here: https://github.com/gbernard-online
+
+[![Github](labo3.png)](https://github.com/gbernard-online)
 
 `-`
 
