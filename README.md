@@ -6,7 +6,7 @@ A portfolio of projects exploring new technologies and refining my skills in my 
 
 Latest code and experiments live here: https://github.com/gbernard-online
 
-[![Github](labo3.png)](https://github.com/gbernard-online)
+[![Github](laboratory.webp)](https://github.com/gbernard-online)
 
 `-`
 
